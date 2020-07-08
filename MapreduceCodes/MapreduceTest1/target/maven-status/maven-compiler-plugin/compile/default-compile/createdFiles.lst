@@ -1,0 +1,3 @@
+com\sankir\WordCount.class
+com\sankir\WordCount$IntSumReducer.class
+com\sankir\WordCount$TokenizerMapper.class
